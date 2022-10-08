@@ -1,0 +1,19 @@
+2022-10-08 20:12:38,167 - SteamBot - INFO - Program started
+2022-10-08 20:12:38,218 - SteamBot - INFO - Valid data for the database
+2022-10-08 20:12:38,218 - SteamBot - INFO - Successful connection to the database
+2022-10-08 20:12:38,219 - SteamBot - INFO - Bot started
+2022-10-08 20:12:38,219 - SteamBot.Bot_File.StartProcess - INFO - Checking the database
+2022-10-08 20:12:38,270 - SteamBot.DB_Work.Connect_To_DB - INFO - PostgreSQL connection was successfully connected and closed
+2022-10-08 20:12:55,525 - SteamBot.Bot_File.Get_Prices - INFO - tThe file is valid
+2022-10-08 20:12:55,893 - SteamBot.Bot_File.Save_Temp_File - INFO - The file has been downloaded successfully
+2022-10-08 20:12:55,893 - SteamBot.UserFile_Work.URL_String_Parse - INFO - String processed succesfully
+2022-10-08 20:12:55,893 - SteamBot.UserFile_Work.URL_String_Parse - INFO - String processed succesfully
+2022-10-08 20:12:55,893 - SteamBot.UserFile_Work.URL_String_Parse - INFO - String processed succesfully
+2022-10-08 20:12:55,893 - SteamBot.UserFile_Work.URL_String_Parse - INFO - String processed succesfully
+2022-10-08 20:12:55,893 - SteamBot.UserFile_Work.Work_With_CSV - INFO - File processes succesfully
+2022-10-08 20:12:55,945 - SteamBot.DB_Work.Insert_Items_From_User - INFO - SQL Query has already been executed
+2022-10-08 20:12:56,117 - SteamBot.Bot_File.Get_Prices - INFO - Success - 387681098
+2022-10-08 20:13:05,276 - SteamBot.DB_Work.Get_All_Things_Users - INFO - SQL Query Select completed successfully
+2022-10-08 20:13:05,485 - SteamBot.Bot_File.Get_Prices - INFO - Success - 387681098
+2022-10-08 20:13:08,424 - SteamBot.Request_Price_Things.Get_Data_About_Thins - INFO - Data receive succefully
+2022-10-08 20:13:08,621 - SteamBot.Bot_File.CallBacks - INFO - Success - 5669289069
